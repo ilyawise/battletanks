@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapObject", "MapObject\MapObject.csproj", "{BC4D25DD-898F-47BC-BB4F-8E6CF6E0F65A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4D25DD-898F-47BC-BB4F-8E6CF6E0F65A}.Debug|x86.ActiveCfg = Debug|x86
+		{BC4D25DD-898F-47BC-BB4F-8E6CF6E0F65A}.Debug|x86.Build.0 = Debug|x86
+		{BC4D25DD-898F-47BC-BB4F-8E6CF6E0F65A}.Release|x86.ActiveCfg = Release|x86
+		{BC4D25DD-898F-47BC-BB4F-8E6CF6E0F65A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
