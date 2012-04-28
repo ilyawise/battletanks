@@ -8,4 +8,3 @@ The ideas of the game are taken from the legendary game "battle tanks" a dandy.
 Цель создания игры - изучение объектно ориентированного программирования.
 Идеи игры взяты из легендарной игры "battle tanks" под денди.
 
-battletanks
